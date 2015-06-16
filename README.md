@@ -12,5 +12,4 @@
 
 演示效果图：
 
-
- ![image](https://github.com/lishuang1234/ArcMenu/blob/master/ArcMenu/screenshort/optimized.gif)
+![image](https://github.com/lishuang1234/ArcMenu/blob/master/ArcMenu/screenshort/optimized.gif)
